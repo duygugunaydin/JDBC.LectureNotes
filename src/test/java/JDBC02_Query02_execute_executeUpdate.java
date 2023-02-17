@@ -80,7 +80,7 @@ public class JDBC02_Query02_execute_executeUpdate {
         System.out.println("=============== 2. Yontem ==============");
 
         // 2.YONTEM (addBatch ve executeBatch() metotlari ile)
-        // ----------------------------------------------------
+        // -----------------------------------------------------
         // addBatch metodu ile SQL ifadeleri gruplandirilabilir ve executeBatch()
         // metodu ile veritabanina bir kere gonderilebilir.
         // executeBatch() metodu bir int [] dizi dondurur. Bu dizi her bir ifade sonucunda
